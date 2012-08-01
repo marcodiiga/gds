@@ -7,6 +7,7 @@ Please refer to the following links to get more information about how it works:
 
 * http://www.youtube.com/watch?v=onnbroQmnvI - YouTube presentation video
 * https://github.com/marcodiiga/gds/wiki/
+* http://www.codeproject.com/Articles/431361/A-Graphical-Documentation-System-for-C-Cplusplus-p
 
 Obviously, since this is free and open source software, there might be bugs or problems you're invited to report
 
