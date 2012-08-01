@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/openGL">
+        <file>shaders/FragmentShader1.frag</file>
+        <file>shaders/VertexShader1.vert</file>
+        <file>textures/gradient_normal.png</file>
+        <file>textures/gradient_selected.png</file>
+        <file>shaders/FragmentShader2Picking.frag</file>
+        <file>shaders/VertexShader2Picking.vert</file>
+    </qresource>
+    <qresource prefix="/genericResources">
+        <file>genericresources/arrow_left.ico</file>
+        <file>genericresources/arrow_right.ico</file>
+        <file>genericresources/create.ico</file>
+        <file>gds_icon/gds_logo.png</file>
+        <file>gds_icon/linkedin_logo.png</file>
+        <file>gds_icon/twitter_logo.png</file>
+    </qresource>
+    <qresource prefix="/editorResources">
+        <file>editorimages/editcopy.png</file>
+        <file>editorimages/editcut.png</file>
+        <file>editorimages/editpaste.png</file>
+        <file>editorimages/editredo.png</file>
+        <file>editorimages/editundo.png</file>
+        <file>editorimages/exportpdf.png</file>
+        <file>editorimages/filenew.png</file>
+        <file>editorimages/fileopen.png</file>
+        <file>editorimages/fileprint.png</file>
+        <file>editorimages/filesave.png</file>
+        <file>editorimages/textbold.png</file>
+        <file>editorimages/textcenter.png</file>
+        <file>editorimages/textitalic.png</file>
+        <file>editorimages/textjustify.png</file>
+        <file>editorimages/textleft.png</file>
+        <file>editorimages/textright.png</file>
+        <file>editorimages/textunder.png</file>
+        <file>editorimages/zoomin.png</file>
+        <file>editorimages/zoomout.png</file>
+        <file>editorimages/insertimage.png</file>
+    </qresource>
+</RCC>
