@@ -3,7 +3,9 @@ GDS
 
 GDS stands for "Graphical Documentation System" and it's a concept experimental application designed to provide an interactive and extremely intuitive overlook of a new software code. If used properly gds allows a programmer to create a high detailed documentation of its code for others to use and understand.
 
-![gds](https://github.com/marcodiiga/gds/raw/master/wikimgs/6.png)
+![gds](https://github.com/marcodiiga/gds/raw/master/wikimgs/gds_mainshot.png)
+
+If you just want the application you can download the binaries from the "Downloads" section above. Note that gds uses openGL rendering and requires openGL extensions 3.3 or higher to run properly. It also needs Microsoft Visual C++ 2010 Redistributable x86 package installed (you can freely download it from [here](http://www.microsoft.com/it-it/download/details.aspx?id=5555)).
 
 Please refer to the following links to get more information about how it works:
 
